@@ -14,11 +14,8 @@
     <NoBuild>true</NoBuild>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageVersion>1.0.1</PackageVersion>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Microsoft.Net.Http.Headers" Version="2.2.0" PrivateAssets="all" />
-  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="@(Compile)">
