@@ -24,4 +24,5 @@ public static class HtmlElements
     public const string Pre = "pre";
     public const string Code = "code";
     public const string HorizontalRule = "hr";
+    public const string Image = "img";
 }
