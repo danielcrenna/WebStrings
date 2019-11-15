@@ -19,11 +19,11 @@ public static class HtmlAttributes
     public const string Style = "style";
     public const string Width = "width";
     public const string Height = "height";
-
+    public const string Method = "method";
     public const string Disabled = "disabled";
     public const string Checked = "checked";
     public const string AutoComplete = "autocomplete";
-
+    public const string Name = "name";
     public const string Title = "title";
 
     public static class Data

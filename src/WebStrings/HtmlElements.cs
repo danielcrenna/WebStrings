@@ -25,4 +25,6 @@ public static class HtmlElements
     public const string Code = "code";
     public const string HorizontalRule = "hr";
     public const string Image = "img";
+    public const string Form = "form";
+    public const string Small = "small";
 }
