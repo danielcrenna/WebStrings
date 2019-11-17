@@ -45,10 +45,13 @@ public static class HtmlAttributes
 
     public static class Aria
     {
+        public const string Atomic = "aria-atomic";
         public const string Controls = "aria-controls";
         public const string Hidden = "aria-hidden";
         public const string LabelledBy = "aria-labelledby";
         public const string Label = "aria-label";
+        public const string Live = "aria-live";
         public const string Selected = "aria-selected";
+
     }
 }
