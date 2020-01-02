@@ -4,13 +4,15 @@
 // ReSharper disable once CheckNamespace
 public static class HtmlInputTypes
 {
+    public const string Button = "button";
     public const string Checkbox = "checkbox";
+    public const string Date = "date";
+    public const string Email = "email";
+    public const string File = "file";
+    public const string Password = "password";
     public const string Radio = "radio";
     public const string Range = "range";
-    public const string Email = "email";
-    public const string Password = "password";
-    public const string Text = "text";
-    public const string Date = "date";
-    public const string Button = "button";
+    public const string Search = "search";
     public const string Submit = "submit";
+    public const string Text = "text";
 }

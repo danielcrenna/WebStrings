@@ -1,8 +1,6 @@
 // Copyright (c) Daniel Crenna & Contributors. All rights reserved.
 // Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
 
-using HN = Microsoft.Net.Http.Headers.HeaderNames;
-
 // ReSharper disable once CheckNamespace
 public static class HttpHeaders
 {
