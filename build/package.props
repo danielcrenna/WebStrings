@@ -1,0 +1,16 @@
+<Project>
+
+  <PropertyGroup>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Authors>Daniel Crenna &amp; Contributors</Authors>
+    <Copyright>Copyright © Daniel Crenna &amp; Contributors. All rights reserved.</Copyright>
+    <PackageIconUrl>https://raw.githubusercontent.com/danielcrenna/WebStrings/master/assets/logo.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/danielcrenna/WebStrings</PackageProjectUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/danielcrenna/WebStrings</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageVersion>1.1.0</PackageVersion>
+    <PackageReleaseNotes>Make strings globally accessible to avoid conflicts.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
